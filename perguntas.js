@@ -7,13 +7,13 @@ criaCartao(
 criaCartao(
     'SCP',
     'O que significa SCP',
-    'Seguro,Conter,Proteger'
+    'Seguro, Conter, Proteger'
 )
 
 criaCartao(
     'SCP',
     'Qual são os rankings de scp',
-    'Safe,Euclid,Keter'
+    'Safe, Euclid, Keter'
 )
 
 criaCartao(
